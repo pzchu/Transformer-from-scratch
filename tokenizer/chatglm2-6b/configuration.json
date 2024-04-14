@@ -1,0 +1,8 @@
+{
+    "framework": "pytorch",
+    "task": "chat",
+    "pipeline": {
+        "type": "chatglm26b-text-generation"
+    },
+    "allow_remote": true
+}
